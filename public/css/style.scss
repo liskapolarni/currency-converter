@@ -128,6 +128,11 @@ footer {
     font-size: 20px;
     line-height: 40px;
     text-align: center;
+
+    a {
+        text-decoration: none;
+        color: $light;
+    }
 }
 
 #settings-menu {

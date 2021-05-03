@@ -62,7 +62,7 @@ const App = () => {
       currencyNames={Object.keys(allCurrencies)} fetchRates={fetchRates}
       showCurrencies={showCurrencies} setShowCurrencies={setShowCurrencies}
       currencyObject={allCurrencies} />
-      <footer>ondrejs.cz 2021 | <b>GitHub repository</b></footer>
+      <footer><a href="https://github.com/liskapolarni/currency-converter"><b>GitHub repository</b></a></footer>
     </div>
   )
 }

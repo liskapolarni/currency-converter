@@ -120,6 +120,11 @@ footer {
   text-align: center;
 }
 
+footer a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
 #settings-menu {
   left: 50%;
   top: 50%;
