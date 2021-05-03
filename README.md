@@ -7,6 +7,7 @@ A currency converter made with ReactJS.
 ```
 git clone https://github.com/liskapolarni/currency-converter
 cd currency-converter
+npm install
 npm run build
 ```
 
